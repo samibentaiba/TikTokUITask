@@ -39,3 +39,7 @@ $ npm install --legacy-peer-deps
 $ npm start
 ```
 - Step 5: Open your browser and navigate to `http://localhost:3000` to access the app.
+
+
+dont forget to add videos and videos typos
+to scroll them as you want
